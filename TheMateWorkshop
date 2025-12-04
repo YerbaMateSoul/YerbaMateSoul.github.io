@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Taller de Yerba Mate en Buenos Aires</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f0f0f0;
+      color: #333;
+    }
+    header {
+      background: #196127;
+      color: white;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    h1 { font-size: 2rem; margin: 0; }
+    p.subtitle { font-size: 1.2rem; margin: 10px 0 20px; }
+    .cta-button {
+      background: #ffa300;
+      color: #000;
+      padding: 15px 30px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 1.1rem;
+      font-weight: bold;
+    }
+    .section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      margin-bottom: 20px;
+      border-radius: 10px;
+    }
+    h2 { color: #196127; }
+    ul { line-height: 1.8rem; }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9rem;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Descubrí el Ritual del Mate</h1>
+  <p class="subtitle">Un taller único para turistas y amantes del mate en Buenos Aires 🇦🇷</p>
+  <a class="cta-button" href="https://wa.me/##########" target="_blank">
+    Reservar mi lugar
+  </a>
+</header>
+
+<div class="section">
+  <h2>¿Qué vas a aprender?</h2>
+  <ul>
+    <li>Cómo se prepara un buen mate 🍃</li>
+    <li>Diferencias entre yerbas y sabores</li>
+    <li>Historia y cultura detrás del mate</li>
+    <li>Cómo elegir tu mate ideal</li>
+    <li>Tradiciones y rituales argentinos</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>¿Por qué es único?</h2>
+  <p>Este taller está guiado por un sommelier de yerba mate que te llevará a una experiencia auténtica, rica en historias y sabores.</p>
+</div>
+
+<div class="section">
+  <h2>Incluye</h2>
+  <ul>
+    <li>Degustación de yerbas premium</li>
+    <li>Fotos y souvenir del taller</li>
+    <li>Duración: 90 minutos</li>
+    <li>Ubicación: Barrio turístico de Buenos Aires</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>Precio</h2>
+  <p><strong>USD 25 por persona</strong></p>
+  <a class="cta-button" href="https://wa.me/5491156157428" target="_blank">Reservar ahora</a>
+</div>
+
+<footer>
+  Taller de Yerba Mate — Buenos Aires © 2025
+</footer>
+
+</body>
+</html>
